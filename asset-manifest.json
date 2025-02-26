@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CountryPage/static/css/main.873f173c.css",
+    "main.js": "/CountryPage/static/js/main.7dda8751.js",
+    "index.html": "/CountryPage/index.html",
+    "main.873f173c.css.map": "/CountryPage/static/css/main.873f173c.css.map",
+    "main.7dda8751.js.map": "/CountryPage/static/js/main.7dda8751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873f173c.css",
+    "static/js/main.7dda8751.js"
+  ]
+}
